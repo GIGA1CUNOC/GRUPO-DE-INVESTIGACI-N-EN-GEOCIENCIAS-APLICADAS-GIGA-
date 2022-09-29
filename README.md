@@ -1,0 +1,2 @@
+# Paguina-Web
+El grupo se dedica a la formulación y ejecución de proyectos enfocados en temas de Evaluación y Gestión de Riesgos Geológicos (sismología, vulcanología, geología, geotecnia), durante estos años se han ejecutado proyectos con financiamiento de la Dirección General de Investigación (DIGI), así como la realización de proyectos de desarrollo tecnológico a través de prototipos de dispositivos de monitoreo, en los cuales se emplean los conocimientos de las distintas carreras de ingeniería que se encuentran en la división.
